@@ -61,7 +61,7 @@ portfolio/
 You can view the live website here:
 
 ```
-https://yourusername.github.io/portfolio
+https://choudharyharsh4271-oss.github.io/my-portfolio/
 ```
 
 ---
