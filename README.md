@@ -30,10 +30,10 @@ The website is built using **HTML, CSS, and JavaScript** and is designed to be c
 ```
 portfolio/
 │
+├── assets/         # Icons and images used in the project
 ├── index.html      # Main webpage
-├── style.css       # Website styling
 ├── script.js       # JavaScript functionality
-└── assets/         # Icons and images used in the project
+└── style.css       # Website styling
 ```
 
 ---
